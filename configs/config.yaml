@@ -1,0 +1,9 @@
+# Default configuration for the intent-aware recommendation system
+products:
+  - running shoes
+  - slip-resistant shoes
+  - formal shoes
+  - puffer coat
+  - ergonomic chair
+  - hydration belt
+  - winter boots
